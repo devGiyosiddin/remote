@@ -1,0 +1,5 @@
+# Parasyte
+
+Status: To Watch
+```
+```

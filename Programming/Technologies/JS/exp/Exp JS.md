@@ -1,0 +1,3 @@
+- [x] [[If va logik operator yoki (or) || If va logik operatorlar]]
+- [x] [[Nullish coalescing (оператор объединения с null) || ?? - operatori]]
+- [ ] of happiness #project/Fragment

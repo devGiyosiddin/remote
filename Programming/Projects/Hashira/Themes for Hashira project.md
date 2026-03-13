@@ -1,0 +1,1 @@
+![[hashira-light theme.jpg]]
